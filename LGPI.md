@@ -20,6 +20,7 @@
 
 ### Principio di Pareto | 80% 20%
 <small>**keywords:** semplificare, razionalizzare, ridimensionare, focalizzare</small>
+
 Il *principio di Pareto* afferma che il 20% delle cause provoca l'80% degli effetti; è un punto di riferimento utile per pianificare, analizzare e risolvere i problemi e raggiungere gli obiettivi.
 
 Si può applicare in qualsiasi ambito.
