@@ -21,7 +21,7 @@
 
 ***Informazione:*** diventa conoscenza quando è in correlazione con altre informazioni
 
-***Archivio*** insieme organizzato di informazioni
+***Archivio:*** insieme organizzato di informazioni
 <integra appunti>
 
 *record:* informazioni logicamente organizzate e riferite ad un unico soggetto\
