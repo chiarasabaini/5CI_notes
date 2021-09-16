@@ -1,5 +1,7 @@
 # INI 
 
+---
+
 ## 2021-09-15
 
 ### Progettazione delle basi di dati
@@ -24,8 +26,10 @@
 ***Archivio:*** insieme organizzato di informazioni
 <integra appunti>
 
-*record:* informazioni logicamente organizzate e riferite ad un unico soggetto\
-*fields:* singole informazioni che compongono il record\
+*record:* informazioni logicamente organizzate e riferite ad un unico soggetto
+
+*fields:* singole informazioni che compongono il record
+
 *tracciato record:* elenco dei campi che compongono il record
 
 ---
