@@ -36,7 +36,11 @@ Si può applicare in qualsiasi ambito.
 ![Scan-Plan-Do-Check-Act](/res/img/spdca.png)
 
 ***Scan*** -> Identify the problem
+
 ***Plan*** -> Recognize an opportunity and plan a change
+
 ***Do*** -> Test the change
+
 ***Check*** -> Review the result, analize it and identify what you've learned
+
 ***Act*** -> Take action based on what you've learned
