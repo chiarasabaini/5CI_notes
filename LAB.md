@@ -6,11 +6,11 @@
 
 ![application](res/img/app.png)
 
-| OS        | Multitask | Multiuser |
-|-----------|-----------|-----------|
-| DOS       |   <ul><li>- [ ] </li></ul>     |   <ul><li>- [ ] </li></ul>     |
-| Windows   |   <ul><li>- [x] </li></ul>     |   <ul><li>- [x] </li></ul>      |
-| GNU/Linux |  <ul><li>- [x] </li></ul>     |  <ul><li>- [x] </li></ul>     |
+| OS        | Multitask                    | Multiuser                    |
+|-----------|------------------------------|------------------------------|
+| DOS       |   <ul><li>- [ ] </li></ul>   |   <ul><li>- [ ] </li></ul>   |
+| Windows   |   <ul><li>- [x] </li></ul>   |   <ul><li>- [ ] </li></ul>   |
+| GNU/Linux |   <ul><li>- [x] </li></ul>   |   <ul><li>- [x] </li></ul>   |
 
 ---
 
