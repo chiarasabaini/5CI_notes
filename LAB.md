@@ -2,6 +2,28 @@
 
 ---
 
+## 2021-09-17
+
+![microservices](res/img/microservices.png)
+
+
+## VM: Configurazione di rete
+
+- **NAT**
+    -> **DHCP**: virtualizzatore
+    -> tutte le macchine hanno lo stesso indirizzo IP di classe A (10.x.x.x)
+
+- **NAT Network**
+    -> **DHCP**: virtualizzatore
+    -> le macchine hanno indirizzi IP diversi, poichè le VM fanno parte della stessa rete
+
+- **Bridge**
+    -> **DHCP**: si delega, in base al contesto _(indirizzi IP statici/assegnati dal DHCP del router)_
+    -> non si fa differenza tra VM e macchine fisiche
+    -> **DISCRIMINANTE** -> classe degli indirizzi IP
+
+---
+
 ## 2021-09-15
 
 ![application](res/img/app.png)
