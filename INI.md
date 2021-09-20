@@ -1,4 +1,30 @@
 # INI 
+---
+
+## 2021-09-20
+
+### XML <sup>[metalinguaggio]</sup>
+
+***5 sacred XML's rules for a WELL FORMED file***
+
+*0 | __Preambolo__*
+```xml
+<?xml version="1.0"?>
+```
+
+*1 | __Tag Radice__*
+
+*2 | __Ogni tag aperto va chiuso__*
+```xml
+<a></a> <a/>
+```
+
+*3 | __LOTFCT__ <sup>[Last Opened Tag First Closed Tab]</sup>*
+Corretto annidamento dei tag
+
+*4 | __Case sensitive__*
+
+*5 | __Valori degli attributi__*
 
 ---
 

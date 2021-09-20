@@ -6,6 +6,8 @@
 
 ![application](res/img/app.png)
 
+<sup>*P.A.* -> procedura aziendale</sup>
+
 | OS        | Multitask                    | Multiuser                    |
 |-----------|------------------------------|------------------------------|
 | DOS       |   <ul><li>- [ ] </li></ul>   |   <ul><li>- [ ] </li></ul>   |
