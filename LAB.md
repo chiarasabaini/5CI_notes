@@ -8,11 +8,55 @@
 
 <sup>*P.A.* -> procedura aziendale</sup>
 
+---
+
+### IO <sup>[applicazione opensource]</sup>
+<sup>**keywords:** identità, sicurezza, LDAP, GDPR</sup>
+
+Offre servizi dello Stato/Provincia/Comune -> es.: Green Pass, Cashback, etc.
+
+---
+
+### workstation -> peer-to-peer -> client/server
+
+**Server:**
+- SW
+    - DB
+    - web
+    - print
+    - ***file*** -> tra i protocolli di comunicazione utilizza il protocollo SMB <sup>(Server Message Block)</sup>, che è causa di buchi nella sicurezza
+
+![img](res/img/wp2pc.png)
+
+---
+
+### AD
+<sup>Active Directory</sup>
+
+- Sistema server centralizzato, cuore di Windows Server, che si fonda sui concetti di dominio (in particolare di un Dominio Windows Server) e di directory, ovvero un insieme di directory services (servizi di rete), gestiti da un domain controller e adottati dai sistemi operativi Microsoft a partire da Windows 2000 Server
+
+- Definisce la modalità con cui vengono assegnate agli utenti tutte le risorse di rete, secondo l'assegnazione da parte dell'amministratore di sistema di Group Policy
+
+-  LDAP viene usato come database in cui vengono memorizzate in forma centralizzata tutte le informazioni di un dominio di rete, relativamente ad autenticazioni ed accesso ai servizi, mantenendo tutte queste informazioni sincronizzate tra i vari server
+
+### VDI
+<sup>Virtual Desktop Infrastructure</sup>
+
+Infrastruttura per la virtualizzazione dei client
+
+ - hosting di un ambiente desktop su un server centralizzato
+ - forma di virtualizzazione desktop, in quanto l'immagine specifica gira su VMs e viene inviata al client attraverso una rete
+
+---
+
 | OS        | Multitask                    | Multiuser                    |
 |-----------|------------------------------|------------------------------|
 | DOS       |   <ul><li>- [ ] </li></ul>   |   <ul><li>- [ ] </li></ul>   |
 | Windows   |   <ul><li>- [x] </li></ul>   |   <ul><li>- [ ] </li></ul>   |
 | GNU/Linux |   <ul><li>- [x] </li></ul>   |   <ul><li>- [x] </li></ul>   |
+
+**Multitask** -> più processi in exec contemporaneamente
+**Multiuser** -> più utenti collegati contemporaneamente
 
 ---
 
