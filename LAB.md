@@ -4,6 +4,7 @@
 
 ## 2021-09-17
 
+![wp2pcs](res/img/wp2pcs.png)
 ![microservices](res/img/microservices.png)
 
 
@@ -48,7 +49,7 @@ Offre servizi dello Stato/Provincia/Comune -> es.: Green Pass, Cashback, etc.
     - print
     - ***file*** -> tra i protocolli di comunicazione utilizza il protocollo SMB <sup>(Server Message Block)</sup>, che è causa di buchi nella sicurezza
 
-![img](res/img/wp2pc.png)
+![img](res/img/wmi.png)
 
 ---
 
