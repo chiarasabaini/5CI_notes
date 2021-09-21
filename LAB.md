@@ -5,10 +5,10 @@
 ## 2021-09-17
 
 ![wp2pcs](res/img/wp2pcs.png)
+
 ![microservices](res/img/microservices.png)
 
-
-## VM: Configurazione di rete
+### VM: Configurazione di rete
 
 - **NAT**\
     -> **DHCP**: virtualizzatore\
@@ -22,6 +22,50 @@
     -> **DHCP**: si delega, in base al contesto _(indirizzi IP statici/assegnati dal DHCP del router)_\
     -> non si fa differenza tra VM e macchine fisiche\
     -> **DISCRIMINANTE** -> classe degli indirizzi IP
+
+#### Glossary
+
+- **Microservizi**
+    - è un tipo di struttura architetturale che permette la rapida, frequente e affidabile distribuzione di applicazioni grandi e complesse, inoltre permette all'organizzazione di evolversi nel suo stack
+    - questo tipo di architettura definisce un'app come un insieme di servizi che sono:
+        - altamente mantenibili e testabili
+        - liberamente accoppiati
+        - distribuibili indipendentemente
+        - organizzati intorno alle funzionalità dell'azienda
+
+- **Container**
+    - VM specializzata che ospita un microservizio
+    - unità standard di software che impacchetta il codice e tutte le dipendenze, per far funzionare velocemente e affidabilmente l'applicazione da un ambiente all'altro.
+    - l'immagine di un container Docker è un pacchetto leggero, autonomo ed eseguibile del software che include tutto il necessario per eseguire un'applicazione: codice, runtime, system tools, system libraries e impostazioni.
+
+- **Orchestratore**
+    - strumenti per amministrare, scalare, e mantenere applicazioni containerizzate
+    - es.: Kubernetes, Docker Swarm 
+
+- **LDAP** <sup>[Lightweight Directory Acces Protocol]</sup>
+     - protocollo standard per l'interrogazione e la modifica dei *servizi di directory* <sup>(un qualsiasi raggruppamento di informazioni che può essere espresso come record di dati e organizzato in modo gerarchico)</sup>
+
+- **Protocollo**
+    - insieme di regole convenzionali che disciplinano il funzionamento di un sistema di comunicazione
+    - permette di accedere ai servizi
+
+- **BC/DR** <sup>[Business Continuity/Disaster Recovery]</sup>
+    - pratica che serve per prepararci a minimizzare gli effetti di eventi che vanno ad intaccare il servizio significativamente
+    - suddiviso in due parti:
+        - *Business Continuity* -> concentrato sulla parte di operazioni aziendali, coinvolge la progettazione e la creazione di policies e procedure, che assicurino il funzionamento delle procedure essenziali, durante e dopo il disastro
+        - *Disaster Recovery* -> concentrato sulla parte tecnica, definisce come il dipartimento di IT di un'organizzazione recupererà da un disatro naturale/artificiale 
+
+- **Appliance**
+    - termine generico che racchiude molti aspetti dei sistemi integrati e delle soluzioni correlate che attraversano data center, PC e distribuzione di software
+    - può avere molti significati e interpretazioni da parte del settore, dei fornitori con relative iniziative di mercato e derivati
+    - sono più di semplici pacchetti IT con il marketing: offrono tecnologia congiunta, hardware, gestione software e servizi.
+
+- **check update**
+    - port 8530
+    - cerca il servizio **WSUS**
+    - porta WSUS in un servizio interno
+    - si collega con il WSUS in cloud e scarica l'update su quello "locale"
+    - le macchine fanno l'update appoggiandosi al WSUS sulla rete locale
 
 ---
 
