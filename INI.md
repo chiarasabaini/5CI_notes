@@ -1,4 +1,22 @@
-# INI 
+# INI
+
+---
+
+## 2021-09-22
+
+### XML
+
+Utilizzato per rppresentare, trasmettere e memorizzare dati strutturati
+
+**3 Livelli di un documento**
+
+| N | Livello       | Descrizione                                         |
+|---|---------------|-----------------------------------------------------|
+| 3 | Comportamento | interazione con l'user                              |
+| 2 | Presentazione | come appare                                         |
+| 1 | Struttura     | organizzazione/semantica (significato)/senso/valore |
+| 0 | Contenuto     | che cosa?                                           |
+
 ---
 
 ## 2021-09-20
