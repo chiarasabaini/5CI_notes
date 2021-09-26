@@ -2,6 +2,12 @@
 
 ---
 
+## 2021-09-20
+
+![notebook scheme](res/img/202109220.png)
+
+---
+
 ## 2021-09-17
 
 ![wp2pcs](res/img/wp2pcs.png)
