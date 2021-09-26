@@ -30,6 +30,23 @@
     - se manca la volontà di chi sta in alto per fare qualcosa per chi sta in basso, è un problema\
     ![hierarchy](res/img/commitment.png)
 
+### PROGETTO: ORARIO
+
+1) **Identificare gli stakeholders che si occupano della creazione**
+2) **Risorse Tecniche:**
+    - individuare il programma di supporto per la creazione
+3) **Definizione dell'organico (input del programma):**
+    - creato da qualcun'altro che deve comunicare ogni cambiamento
+    - composto da:
+        - docenti
+        - classi
+        - materie
+        - aule
+4) **Definire un protocollo di comunicazione tra responsabili orario e organico**
+5) **Output** -> 4 file .txt
+
+![schema progetto orario](res/img/progetto_orario.png)
+
 ---
 
 ## 2021-09-17
