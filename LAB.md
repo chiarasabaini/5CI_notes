@@ -6,6 +6,30 @@
 
 ![notebook scheme](res/img/20210920.png)
 
+#### Glossary
+
+- **Programmi**
+    - desktop
+    - web
+    - app mobile
+
+- **Processo**
+    - attività che deve essere inserita in un catalogo
+    - chi fa cosa
+    - entità dinamica caricata su memoria RAM generata da un programma
+
+- **IAM** <sup>[Identity Access Management]</sup>
+    - riguarda la definizione e la gestione dei ruoli e dei privilegi di accesso delle singole entità di rete (utenti e dispositivi) a una varietà di applicazioni cloud e locali
+    - obiettivo principale: avere un'identità digitale per individuo o elemento; essa deve essere mantenuta, modificata e monitorata durante tutto il ciclo di vita di accesso di ciascun utente o dispositivo
+
+- **GDPR** <sup>[General Data Protection Regulation]</sup>
+    - regolamento dell'UE in materia di trattamento dei dati personali e di privacy
+    - obiettivo: rafforzare la protezione dei dati personali di cittadini e residenti nell'UE, sia all'interno che all'esterno dei confini dell'UE, restituendo ai cittadini il controllo dei propri dati personali, semplificando il contesto normativo che riguarda gli affari internazionali, unificando e rendendo omogenea la normativa privacy dentro l'UE
+
+- **Commitment**
+    - se manca la volontà di chi sta in alto per fare qualcosa per chi sta in basso, è un problema\
+    ![hierarchy](res/img/commitment.png)
+
 ---
 
 ## 2021-09-17
