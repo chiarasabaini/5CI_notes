@@ -4,7 +4,7 @@
 
 ## 2021-09-20
 
-![notebook scheme](res/img/202109220.png)
+![notebook scheme](res/img/20210920.png)
 
 ---
 
