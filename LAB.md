@@ -2,6 +2,73 @@
 
 ---
 
+## 2021-09-22
+
+![reverse proxy scheme](res/img/reverse_proxy.png)
+
+#### Glossary
+
+**Proxy**
+- simula qualcosa
+- intermediario -> tutto ciò che sta fuori dalla rete vede il proxy ma non ciò che sta all'interno della rete
+![proxy scheme](res/img/proxy.svg)
+
+**Reverse Proxy**
+- proxy in ingresso -> ciò che sta all'interno della rete vede il proxy ma non ciò che sta fuori
+- solitamente implementati per aumentare la sicurezza, le prestazioni e l'affidabilità
+![reverse proxy scheme](res/img/reverse_proxy.svg)
+
+**Rete**
+- serve per offrire/usufruire dei servizi
+
+**WSL** <sup>[Windows Subsystem for Linux]</sup>
+- consente di eseguire un ambiente GNU/Linux direttamente su Windows, non modificato, senza il sovraccarico di una macchina virtuale tradizionale o di una configurazione dualboot
+
+**Port forwarding**
+- applicazione di conversione degli indirizzi di rete che reindirizza una richiesta di comunicazione da una combinazione di IP e port numbers a un'altra mentre i pacchetti attraversano un gateway
+
+**Autenticazione**
+- DB
+- server AAA
+    - servizio dedicato che se ne occupa (es.: LDAP -> AD)
+    - **AAA** <sup>[Authentication Authorization Accounting]</sup>
+        - Authentication
+            - processo di identificazione di un individuo, di solito basato su un nome utente e una password
+            - si basa sull'idea che ogni singolo utente avrà informazioni uniche che lo distinguono dagli altri utenti
+        - Authorization
+            - processo di concessione o negazione di un utente l'accesso alle risorse di rete una volta che l'utente è stato autenticato 
+            - la quantità di indormazioni e servizi a cui l'utente ha accesso dipendono dal livello di autorizzazione dell'utente
+        - Accounting
+            - processo di tenere traccia dell'attività di un utente durante l'accesso alle risorse di rete, compresa la quantità di tempo trascorso in rete, i servizi a cui si accede mentre si è lì e la quantità di dati trasferiti durante la sessione
+            - i dati vengono utilizzati per l'analisi delle tendenze, la pianificazione della capacità, la fatturazione, l'auditing e l'allocazione dei costi
+
+**RODC** <sup>[Read Only Domain Controller]
+- è un tipo di Domain Controller con partizioni read-only dell'ADDS (Active Directory Domain Services)
+- le aziende tendono ad utilizzare il RODC quando:
+    - non c'è abbastanza sicurezza fisica per il data center
+    - non c'è abbastanza larghezza di banda per stabilire connessioni di rete
+
+**SSO** <sup>[Single Sign On]</sup>
+- è una tecnologia che combina diverse schermate di login alle applicazioni in una sola
+- un utente deve inserire le proprie credenziali di accesso (nome utente, password, etc.) una sola volta su una singola pagina per accedere a tutte le proprie applicazioni SaaS
+
+**DMZ** <sup>[DeMilitarized Zone]</sup>
+- zona non protetta (esposta)
+- sottorete fisica o logica che contiene ed espone i servizi rivolti all'esterno di un'organizzazione a una rete non attendibile, in genere più grande (es.: Internet)
+- sta venendo sostituita dal *cloud* -> SaaS, PaaS, IaaS
+
+**LAMP** <sup>[Linux, Apache, MySQL, PHP/Perl/Python]</sup>
+- XAMPP for Linux
+- ogni lettera dell'acronimo rappresenta uno dei suoi quattro elementi costitutivi open source
+- uno degli stack di soluzioni più comuni per molte delle applicazioni più popolari del web
+- ora si riferisce a un modello generico di stack software e i suoi componenti sono in gran parte intercambiabili
+
+**Metadirectory**
+- è un servizio centralizzato di integrazione dei dati
+- può gestire transazioni di dati tra più directory o tra directory e database, questi tipi di servizi includono varie funzionalità per filtrare i dati e/o valutare o monitorare i dati in transito
+
+---
+
 ## 2021-09-20
 
 ![notebook scheme](res/img/20210920.png)
