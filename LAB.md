@@ -30,6 +30,8 @@
     - se manca la volontà di chi sta in alto per fare qualcosa per chi sta in basso, è un problema\
     ![hierarchy](res/img/commitment.png)
 
+---
+
 ### PROGETTO: ORARIO
 
 1) **Identificare gli stakeholders che si occupano della creazione**
