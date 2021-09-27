@@ -34,7 +34,7 @@
 
 1) **Identificare gli stakeholders che si occupano della creazione**
 2) **Risorse Tecniche:**
-    - individuare il programma di supporto per la creazione
+    - individuare il programma di supporto per la creazione (GPI UNTISI)
 3) **Definizione dell'organico (input del programma):**
     - creato da qualcun'altro che deve comunicare ogni cambiamento
     - composto da:
