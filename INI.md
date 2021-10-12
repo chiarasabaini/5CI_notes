@@ -2,6 +2,21 @@
 
 ---
 
+### XSL(T)
+Language for transforming XML documents
+
+*XPath* -> language for navigating XML documents
+*XQuerty* -> language for querying XML documents
+
+### XSL
+<sup>[EXtensible Stylesheet Language]</sup>
+
+
+
+
+
+---
+
 ## 2021-09-22
 
 ### XML

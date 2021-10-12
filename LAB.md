@@ -2,6 +2,37 @@
 
 ---
 
+https://slidemodel.com/business-model-canvas/
+https://slidemodel.com/how-to-work-breakdown-structure-wbs/
+
+---
+
+## 2021-09-27
+
+![apps.marconivr.it (CMDB)](res/img/appscmdb.png)
+
+### WEBSERVER
+- "problema" dell'orario pubblico
+    - soluzione &#x2192; login
+        - opzione 1 &#x2192; spaggiari
+            - soluzione "migliore"
+                - c'è anche l'account genitore
+            - incerto, poichè non si sa se è supportato
+        - opzione 2 &#x2192; login con altri AAA or no login
+            - senza eseguire l'accesso è visibile solo l'orario pubblico (senza alcune info)
+
+**login types**
+- spaggiari
+- AD
+- Google
+- DB
+
+![orario](res/img/orario.png)
+
+Access DB &#x2192; contine una checklist che ha tutte le informazioni riguardanti tutti gli utenti
+
+---
+
 ## 2021-09-22
 
 ![reverse proxy scheme](res/img/reverse_proxy.png)
