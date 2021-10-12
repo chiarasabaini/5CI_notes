@@ -4,6 +4,7 @@
 
 https://slidemodel.com/business-model-canvas/
 https://slidemodel.com/how-to-work-breakdown-structure-wbs/
+
 ---
 
 ## 2021-09-29
