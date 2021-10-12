@@ -9,7 +9,7 @@ https://slidemodel.com/how-to-work-breakdown-structure-wbs/
 
 ## 2021-09-29
 
-![on premise/cloud](res/img/cloud.jpg)
+![on premise/cloud](res/img/cloud.png)
 
 ---
 
